@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;  
+}
+
+body{
+    margin: 100px;
+    
+}
+
+.field{
+    
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aqua;
+}
+/*.snakeHead{
+    background-color: green;
+    background-size: cover;
+    border-radius: 10%;
+}
+
+.snakeBody{
+    background-color: yellow;
+    background-size: cover;
+    border-radius: 10%;
+}*/

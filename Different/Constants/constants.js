@@ -1,6 +1,6 @@
 const FIELD = {
-    WIDTH: 400,
-    HEIGHT: 400,   
+    WIDTH_CELL: 20,
+    HEIGHT_CELL: 20,   
 };
 
 const CELL = {
