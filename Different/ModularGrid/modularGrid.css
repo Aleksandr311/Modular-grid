@@ -11,21 +11,20 @@
 
 .container {
     display: flex;
-    flex-wrap: wrap;
-    flex-direction:row;
-    
     justify-content: center; 
     max-width: 1024px;
     min-width: 640px;
     margin-left: 40px;
     margin-right: 40px;
    
-};
-.col {
-    
-    width: calc ((100% - 80px *12)/12);
-    background-color: aqua
+}
+.col {  
       
-    
-    
-};
+    margin-right: 20px;
+    width: calc(100% / 12);
+    background-color: aqua;
+}
+
+.col:last-child{
+    margin-right: 0;
+}

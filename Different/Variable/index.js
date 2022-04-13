@@ -27,9 +27,9 @@ var age4 = 25;
 var message7 = "Hello";
 //также можно изменить значение переменной столько раз, сколько захотим:
 //почему в var нельзя использовать user, user1... а в let можно использовать имена переменных из vsr
-let user4 = "Ben";
-user4 = "John"//Ben стал John
-user4 = "Hello"//Jon стал Hello
+let user5 = "Ben";
+user5 = "John"//Ben стал John
+user5 = "Hello"//Jon стал Hello
 
 let hello = "Hello";
 let hi;
